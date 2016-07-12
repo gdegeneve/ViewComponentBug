@@ -5,11 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E1BF79E5-F47E-4A98-930A-7D6451AEC469}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{080040F3-4A9A-41B8-A419-10A9F12108CE}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
-EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ViewComponentBug", "src\ViewComponentBug\ViewComponentBug.xproj", "{20CBED4D-EC1E-4535-AD1F-2E94E8C57689}"
 EndProject
 Global
